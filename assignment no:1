@@ -1,0 +1,10 @@
+mkdir Devops
+cd Devops, touch LinuxCommands
+pwd
+cd .., mkdir LinuxOs
+cd LinuxOs,touch About.txt,nano About.txt
+mv LinuxOs Linux
+pwd, ls -l
+cd ..,cd Devops, touch About.txt,nano About.txt
+ls
+cp About.txt Linux.txt
